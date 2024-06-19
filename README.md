@@ -1,4 +1,4 @@
-![image](https://github.com/Radan1t/2-Year-University-C.cs/assets/117475310/6bd48f40-12d6-4a95-a5ea-6a12df814d56)# 2-Year-University-C.cs
+
 My knowledge of C# from laboratory work during my second year at university
 
 Було виконано декілька лабораторних робіт для засвоєння матеріалу, а також створенно файловий менеджер та курсовий проект з предмету "Організація баз даних"
