@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|c:\\users\\safon\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\instalation pacage\\sqlproject\\sqlproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SQLProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\rep2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\rep2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\rep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\rep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\rep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\rep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\marketdbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\marketdbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\sqlproject\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{4FB187B0-8431-4CDF-8FC7-1F0A01727645}|SQLProject\\SQLProject.csproj|solutionrelative:sqlproject\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Program.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Program.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Program.cs",
+              "RelativeToolTip": "SQLProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:09:01.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLProject",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\SQLProject.csproj",
+              "RelativeDocumentMoniker": "SQLProject\\SQLProject.csproj",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\SQLProject.csproj",
+              "RelativeToolTip": "SQLProject\\SQLProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T17:06:50.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Form1.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SQLProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:53:22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Form1.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Form1.cs",
+              "RelativeToolTip": "SQLProject\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:49:13.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\DataBase.cs",
+              "RelativeDocumentMoniker": "SQLProject\\DataBase.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\DataBase.cs",
+              "RelativeToolTip": "SQLProject\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:43:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Admin.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Admin.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Admin.cs",
+              "RelativeToolTip": "SQLProject\\Admin.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAIAwwGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:22:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rep2.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Rep2.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Rep2.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Rep2.cs",
+              "RelativeToolTip": "SQLProject\\Rep2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:18:47.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rep.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Rep.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Rep.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Rep.cs",
+              "RelativeToolTip": "SQLProject\\Rep.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:18:34.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rep.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Rep.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Rep.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Rep.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SQLProject\\Rep.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:16:02.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarketDBDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\MarketDBDataSet1.xsd",
+              "RelativeDocumentMoniker": "SQLProject\\MarketDBDataSet1.xsd",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\MarketDBDataSet1.xsd",
+              "RelativeToolTip": "SQLProject\\MarketDBDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-17T13:15:52.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataSet1.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\DataSet1.cs",
+              "RelativeDocumentMoniker": "SQLProject\\DataSet1.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\DataSet1.cs",
+              "RelativeToolTip": "SQLProject\\DataSet1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:13:46.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "SQLProject\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\DataSet1.xsd",
+              "RelativeToolTip": "SQLProject\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-17T13:11:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Report2.rdlc [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Report2.rdlc",
+              "RelativeDocumentMoniker": "SQLProject\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Report2.rdlc [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "RelativeToolTip": "SQLProject\\Report2.rdlc [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-17T13:11:31.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Report1.rdlc [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Report1.rdlc",
+              "RelativeDocumentMoniker": "SQLProject\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Report1.rdlc [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "RelativeToolTip": "SQLProject\\Report1.rdlc [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-17T13:11:09.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main_Page.cs",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Main_Page.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Main_Page.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Main_Page.cs",
+              "RelativeToolTip": "SQLProject\\Main_Page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:18:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main_Page.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Main_Page.cs",
+              "RelativeDocumentMoniker": "SQLProject\\Main_Page.cs",
+              "ToolTip": "C:\\Users\\safon\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Instalation pacage\\SQLProject\\SQLProject\\Main_Page.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SQLProject\\Main_Page.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:18:05.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

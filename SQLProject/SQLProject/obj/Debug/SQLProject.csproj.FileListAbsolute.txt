@@ -1,0 +1,227 @@
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\SQLProject.exe.config
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\SQLProject.exe
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\SQLProject.pdb
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.AssemblyReference.cache
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Form1.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Properties.Resources.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.GenerateResource.cache
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.CoreCompileInputs.cache
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.exe
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.pdb
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Main_Page.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Workers.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Storage.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Invoice_chek.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Admin.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Storage_Change.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_invoice.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Privoz.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_Chek.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Chek_List.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_Chek_Row.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Chek_List_Info.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Invoice_Info.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Invoice_List.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Correct_Chek_Info.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_Type.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_Provider.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_Manufacturer.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.New_Item.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\EnvDTE.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\stdole.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.Rep.resources
+C:\Users\safon\OneDrive\Рабочий стол\c++\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.Up2Date
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\SQLProject.exe.config
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\SQLProject.exe
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\SQLProject.pdb
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\EnvDTE.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\stdole.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.AssemblyReference.cache
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Admin.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Chek_List.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Chek_List_Info.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Correct_Chek_Info.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Form1.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Invoice_chek.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Invoice_Info.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Invoice_List.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Main_Page.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_Chek.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_Chek_Row.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_invoice.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_Item.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_Manufacturer.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_Provider.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.New_Type.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Privoz.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Properties.Resources.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Rep.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Storage.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Storage_Change.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Workers.resources
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.GenerateResource.cache
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.CoreCompileInputs.cache
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.Up2Date
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.exe
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.pdb
+C:\Users\safon\OneDrive\Рабочий стол\Instalation pacage\SQLProject\SQLProject\obj\Debug\SQLProject.Rep2.resources
