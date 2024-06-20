@@ -117,32 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>128, 17</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="button2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1
-        MAAA6mAAADqYAAAXcJy6UTwAAAAJcEhZcwABOvMAATrzARcLMswAAAAHdElNRQfoBgwMIQ6RaLjXAAAA
-        GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAyFJREFUWEft11moTWEUwPFjnl1DZJ5J
-        JIQHEkKEByG5ePCilEyhRBJShoiSFPIiMmYsFEIyPRgeTJmJDJnn2f+vs+s83HvP2UNdD2fVr33PvXef
-        /e39rW99a6fykY9UqiyqotK/T6UY5dAVczERDZB4lEEVNIEX648hGIgeaA7/XhMO5DmuYhgcYCLhIGqj
-        D7zIDpzDNdzCdVzEXizACKzDF7zGNFRG7HDOu2MpLuMdfuBn+vg947Pe42baN3zFCtRCrKiBkTgML/Ib
-        n/EY53EQO7EfZ3APH+CgfsH/11Y4tZGjGsbjAoIn4JRswAT0RFs0Q+v0Z6fjCBz4nwwn0BGRogKGwrzw
-        Dj/hKMahMcojMyrCJF4Lz/Hp+ESCwVxBL5h7oaM9dsM5d1pMzL7wokVFI2zCR2ROj+ebwJ4f6clYqGbi
-        BZz7UxiAkpZmHSzEDbiyTmI7VmEGesMlHzo6wClxIE8wFQ6wpLDaWmMGoR86oSksBw7Cv4cO57QQD2DS
-        HkKYx+tFI+VFUVEdi+BqkD/7u1IJ95DNsFBZS1zaid1p2GiJPbCmWEEHI6mwHJh7OedPK+yD+eKqcBUl
-        EVbyUZgH9zfrWNawZG+D9eEuhiOJ6IbjeIn1yKmlcCmugYXOE13WOd1FlhiLR/Amt8AimTW8sANwICax
-        VbUh4oS79XJYnUOvUMv+JVjW3VPco+KsKDfQ07CI3oa9Ts7fVw9BY+QGuRGusihhbtjLvIGLwqYs1He5
-        9CzrPhU3O7eE+Qjbx5p/U3AHfo9Hq3voHCzAHDyFLcB9uBG2Q7ZeNtinZsHy4HS/gnlTH5GiBVbDZPbO
-        nsFlPwY2UzZfDsyLe7Sg2WhZDpxaV4/n2aZa1d2AI+eeJ/okbAOcKu/QPLL+HIA98WTY9U3CYuyCldtc
-        8/+9EQfWBTlX3uLCAVkIp+Ms3sJVIS9o4+QFPfo5aMzt9GzezbU2iD2QzLCcW8aX4BhsvM0Da4cF0qMr
-        5iFcxivhIoj9RlBc+JT88s4YjdlYBvPK5DTh7ZF9ramLyPkRNryQ71M+MQfoG6QvaYlORz7+s0il/gIn
-        IMlWW2bgwAAAAABJRU5ErkJggg==
-</value>
-  </data>
 </root>

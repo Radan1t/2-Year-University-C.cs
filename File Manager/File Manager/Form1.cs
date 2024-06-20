@@ -1,6 +1,7 @@
 ﻿using File_Manager.Properties;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 
@@ -682,6 +683,70 @@ namespace File_Manager
                 groupBox3.Hide();
                 info = false;
             }
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Author form = new Author();
+            form.Show();
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            // Створюємо новий екземпляр ColorDialog
+            ColorDialog colorDialog = new ColorDialog();
+            System.Drawing.Color color = groupBox3.BackColor;
+            // Показуємо діалогове вікно і перевіряємо, чи користувач натиснув ОК
+            if (colorDialog.ShowDialog() == DialogResult.OK)
+            {
+                // Встановлюємо вибраний колір як фон для головної форми
+                this.BackColor = colorDialog.Color;
+                groupBox4.BackColor = color;
+                groupBox3.BackColor = color;
+                groupBox2.BackColor = color;
+                groupBox1.BackColor = color;
+
+            }
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            ColorDialog colorDialog = new ColorDialog();
+            if (colorDialog.ShowDialog() == DialogResult.OK)
+            {
+                groupBox4.BackColor = colorDialog.Color;
+                groupBox3.BackColor = colorDialog.Color; 
+                groupBox2.BackColor = colorDialog.Color; 
+                groupBox1.BackColor = colorDialog.Color; 
+
+
+            }
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            // Створюємо новий екземпляр FontDialog
+            FontDialog fontDialog = new FontDialog();
+
+            // Показуємо діалогове вікно і перевіряємо, чи користувач натиснув ОК
+            if (fontDialog.ShowDialog() == DialogResult.OK)
+            {
+                // Встановлюємо вибраний шрифт для всієї форми та її контролів
+                SetFont(this, fontDialog.Font);
+            }
+        }
+        private void SetFont(Control control, Font font)
+        {
+            control.Font = font;
+            foreach (Control childControl in control.Controls)
+            {
+                SetFont(childControl, font);
+            }
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
         }
     }
 

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Author.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Author.Designer.cs">
+      <DependentUpon>Author.cs</DependentUpon>
+    </Compile>
     <Compile Include="Createcs.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,9 @@
     <Compile Include="ListViewColumnSorter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Author.resx">
+      <DependentUpon>Author.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Createcs.resx">
       <DependentUpon>Createcs.cs</DependentUpon>
     </EmbeddedResource>
